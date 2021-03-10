@@ -18,4 +18,4 @@
       - Oyuncunun yanlış bir tuşa basması durumunda puanı 0 olacaktır
     
    Çıktı: oyuncupuan1:   işlem sonucunda 1. oyunun puanı
-           oyuncupuan2:   işlem sonucunda 2. oyuncunun puanı (Bilgisayar)
+          oyuncupuan2:   işlem sonucunda 2. oyuncunun puanı (Bilgisayar)
