@@ -1,7 +1,10 @@
 Girdi: 
 oyuncusecim1:  1. oyuncunun secimi
+
 oyuncusecim2:  2. oyuncunun secimi (Bilgisayar)
+
 oyuncupuan1:   1. oyunun puanı
+
 oyuncupuan2:   2. oyuncunun puanı (Bilgisayar)
     
    İşlem: 
@@ -23,5 +26,7 @@ oyuncupuan2:   2. oyuncunun puanı (Bilgisayar)
    - Oyuncunun yanlış bir tuşa basması durumunda puanı 0 olacaktır
     
    Çıktı: 
+   
    oyuncupuan1:   işlem sonucunda 1. oyunun puanı
+   
    oyuncupuan2:   işlem sonucunda 2. oyuncunun puanı (Bilgisayar)
